@@ -1,6 +1,6 @@
 # Grand River Products
 
-A static page for https://fabreactor.com, operated by Pioreactor, Inc. Plain HTML and CSS; no build or JavaScript required. Contact: info@fabreactor.com.
+A static page for https://grandrivermfg.ca, operated by Pioreactor, Inc. Plain HTML and CSS; no build or JavaScript required. Contact: info@grandrivermfg.ca.
 
 ## Preview
 
@@ -8,7 +8,7 @@ Run `make serve` and open http://127.0.0.1:8000.
 
 ## GitHub Pages
 
-Push these files to the GitHub repository. In Settings → Pages, select **Deploy from a branch**, choose the published branch and **/ (root)**. Set the custom domain to `fabreactor.com` and enable HTTPS once the domain is configured.
+Push these files to the GitHub repository. In Settings → Pages, select **Deploy from a branch**, choose the published branch and **/ (root)**. Set the custom domain to `grandrivermfg.ca` and enable HTTPS once the domain is configured.
 
 Configure the apex domain's DNS using GitHub's [custom domain instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain). The checked-in `CNAME` file preserves the custom domain. `.nojekyll` lets GitHub serve the files directly.
 
